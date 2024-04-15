@@ -27,6 +27,12 @@ de esta manera habra un construcctor para casas modernas y otros para edificios.
 El patrón Builder te ayuda a separar la construcción de un objeto complejo (como una casa) de su representación, permitiéndote crear diferentes tipos de objetos usando los mismos pasos de construcción, pero con diferentes detalles.
 
 
+#Decorator:
+
+![Decorator_example](https://github.com/Neon18H/Patrons-of-Desing/assets/92942417/6951f349-f288-4ad3-96f7-629be717d0b8)
+
+
+
 
 
  
