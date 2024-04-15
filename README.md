@@ -13,9 +13,12 @@ la flexibilidad y la reutilización del código existente.
 
 Imagina que quieres construir una casa con bloques y estos bloques tiene un colo asignado
 
-Columns-Rojo ❤️
-Fachada-Verda 💚
-Interior-Marron 🤎
+Columns-Rojo ❤️(Tipo de Columna)
+Fachada-Verda 💚(Tipo de Fachada)
+Interior-Marron 🤎(Tipo de interior)
+
+Entones supongamos que quieres construir una casa moderna y un edificio, pero cada uno de estos sigue un orden de construccion diferente
+ademas usan un tipo diferente de: Columnas , fachadas, interior. 
 
 
 
