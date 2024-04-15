@@ -7,7 +7,8 @@ Estos patrones proporcionan mecanismos de creación de objetos que incrementan
 la flexibilidad y la reutilización del código existente.
 
 #Builder:
-![Patrones-colegiados-Construccion-recomendada-de-constructores-de-viviendas-superiores](https://github.com/Neon18H/Patrons-of-Desing/assets/92942417/de385a14-cffa-4754-ad38-eb5ee1c9bb7c)
+![Patrones-colegiados-Construccion-recomendada-de-constructores-de-viviendas-superiores](https://github.com/Neon18H/Patrons-of-Desing/assets/92942417/a5c2370e-7fd9-48ed-b7e2-2bbb07d56022)
+
 
 
  
