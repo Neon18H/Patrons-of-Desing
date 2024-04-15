@@ -38,8 +38,21 @@ para disparos a larga distancia, cada uno de estos accesorios se le suma al arma
 El patrón Decorator funciona de manera similar. Te permite agregar nuevas funcionalidades o comportamientos a un objeto existente sin cambiar su estructura básica. Cada decorador envuelve el objeto original y agrega su propio toque especial, como agregar capas de decoraciones a un arma.
 
 
+#Observer: 
 
 
+![e-El-papel-del-supervisor-en-las-organizaciones](https://github.com/Neon18H/Patrons-of-Desing/assets/92942417/e36c0ffe-d716-455f-94c3-e13c825b9665)
+
+Ahora imagina que trabajas en una planta nuclear y tu eres supervisor, en este plantel nuclear, hay un reactor nuclear y este siempre te avisa
+cuando la temperatura cambia, cuando la temperatura cambia, este reactir avisa y luego tu como supervisor decides que hacer.
+En esta situacion: 
+Tu eres el observador, el reactor nuclear "objeto observedo", cambio de temperatura es el "evento"
+
+Observador (tú): Eres la persona que está observando el comportamiento del reactor nuclear.
+Objeto Observado (Reactor nuclear): Es el objeto que está siendo observado. En este caso, Reactor nuclear está atento al cambio de temperatura.
+Evento (cambio de temperatura): Es lo que sucede y que interesa al observador. Cuando la temperatura cambie, es un evento que ocurre y que el reactor nuclear nota 
+
+El patrón de diseño Observer es como una relación entre tú (el observador) y el Reactor nuclear (el objeto observado). Reactor nuclear siempre te notifica cuando algo importante sucede (como cuando la temperatura varia), y luego tú decides qué hacer en función de esa notificación (revisar el reactor nuclear). De esta manera, puedes estar al tanto de lo que está sucediendo sin tener que estar constantemente vigilando los cambios de temperatura tú mismo.
 
 
  
