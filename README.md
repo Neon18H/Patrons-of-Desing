@@ -14,11 +14,17 @@ la flexibilidad y la reutilización del código existente.
 Imagina que quieres construir una casa con bloques y estos bloques tiene un colo asignado
 
 Columns-Rojo ❤️(Tipo de Columna)
+
 Fachada-Verda 💚(Tipo de Fachada)
+
 Interior-Marron 🤎(Tipo de interior)
 
 Entones supongamos que quieres construir una casa moderna y un edificio, pero cada uno de estos sigue un orden de construccion diferente
-ademas usan un tipo diferente de: Columnas , fachadas, interior. 
+ademas usan un tipo diferente de: Columnas , fachadas, interior. Entonces en lugar de mezclar todos estos bloques de colores y sus tipos y 
+confundirte, hay unas instruccuines para cada tipo de construccion la cual quieras realizar, estonces cada instruccion tiene un tipo de construcctor
+de esta manera habra un construcctor para casas modernas y otros para edificios.
+
+El patrón Builder te ayuda a separar la construcción de un objeto complejo (como una casa) de su representación, permitiéndote crear diferentes tipos de objetos usando los mismos pasos de construcción, pero con diferentes detalles.
 
 
 
