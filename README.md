@@ -6,7 +6,7 @@ Estos patrones de diseño fueron creados usando "Python"
 Estos patrones proporcionan mecanismos de creación de objetos que incrementan
 la flexibilidad y la reutilización del código existente.
 
-#Builder:
+#Builder: -----> Patrones Creacionales
 
 ![Patrones-colegiados-Construccion-recomendada-de-constructores-de-viviendas-superiores](https://github.com/Neon18H/Patrons-of-Desing/assets/92942417/a5c2370e-7fd9-48ed-b7e2-2bbb07d56022)
 
@@ -27,7 +27,7 @@ de esta manera habra un construcctor para casas modernas y otros para edificios.
 El patrón Builder te ayuda a separar la construcción de un objeto complejo (como una casa) de su representación, permitiéndote crear diferentes tipos de objetos usando los mismos pasos de construcción, pero con diferentes detalles.
 
 
-#Decorator:
+#Decorator: --------- > Patrones Estructurales
 
 ![Decorator_example](https://github.com/Neon18H/Patrons-of-Desing/assets/92942417/6951f349-f288-4ad3-96f7-629be717d0b8)
 
@@ -38,7 +38,7 @@ para disparos a larga distancia, cada uno de estos accesorios se le suma al arma
 El patrón Decorator funciona de manera similar. Te permite agregar nuevas funcionalidades o comportamientos a un objeto existente sin cambiar su estructura básica. Cada decorador envuelve el objeto original y agrega su propio toque especial, como agregar capas de decoraciones a un arma.
 
 
-#Observer: 
+#Observer: ---------------> Patrones de comportamiento
 
 
 ![e-El-papel-del-supervisor-en-las-organizaciones](https://github.com/Neon18H/Patrons-of-Desing/assets/92942417/e36c0ffe-d716-455f-94c3-e13c825b9665)
