@@ -31,6 +31,13 @@ El patrón Builder te ayuda a separar la construcción de un objeto complejo (co
 
 ![Decorator_example](https://github.com/Neon18H/Patrons-of-Desing/assets/92942417/6951f349-f288-4ad3-96f7-629be717d0b8)
 
+imaginas que estas en tu juego favorito Call of Duty  tienes un arma, y este patron trata de ir agregando accesorios a esta arma
+decorandola. Entonces comensarias con un arma base y le puedes ir agragando consas para potenciarla, como una culata, o un tubo mas largo
+para disparos a larga distancia, cada uno de estos accesorios se le suma al arma base y la hace mas genial.
+
+El patrón Decorator funciona de manera similar. Te permite agregar nuevas funcionalidades o comportamientos a un objeto existente sin cambiar su estructura básica. Cada decorador envuelve el objeto original y agrega su propio toque especial, como agregar capas de decoraciones a un arma.
+
+
 
 
 
