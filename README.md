@@ -11,6 +11,13 @@ la flexibilidad y la reutilización del código existente.
 ![Patrones-colegiados-Construccion-recomendada-de-constructores-de-viviendas-superiores](https://github.com/Neon18H/Patrons-of-Desing/assets/92942417/a5c2370e-7fd9-48ed-b7e2-2bbb07d56022)
 
 
+Imagina que quieres construir una casa con bloques y estos bloques tiene un colo asignado
+
+Columns-Rojo ❤️
+Fachada-Verda 💚
+Interior-Marron 🤎
+
+
 
 
  
