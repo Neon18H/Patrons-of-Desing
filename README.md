@@ -55,5 +55,23 @@ Evento (cambio de temperatura): Es lo que sucede y que interesa al observador. C
 El patrón de diseño Observer es como una relación entre tú (el observador) y el Reactor nuclear (el objeto observado). Reactor nuclear siempre te notifica cuando algo importante sucede (como cuando la temperatura varia), y luego tú decides qué hacer en función de esa notificación (revisar el reactor nuclear). De esta manera, puedes estar al tanto de lo que está sucediendo sin tener que estar constantemente vigilando los cambios de temperatura tú mismo.
 
 
+#Iterator: ---------------------> Patrones de comportamiento
+
+
+![traditional-wooden-steps-in-vintage-library-royalty-free-image-1666591817](https://github.com/Neon18H/Patrons-of-Desing/assets/92942417/02470678-be5c-4495-9385-9f9744b3f3ac)
+
+
+
+Imagina que estás en una biblioteca y necesitas encontrar un libro específico en una gran estantería llena de libros. La estantería es como la colección de elementos, y los libros individuales son los elementos dentro de esa colección.
+
+Ahora, sin el patrón Iterator, tendrías que saber cómo está organizada la estantería (quizás por género, autor, o título) y buscar manualmente el libro que necesitas, exponiéndote a la complejidad de la organización interna de la biblioteca.
+
+Sin embargo, con el patrón Iterator, puedes pensar en el bibliotecario como un Iterador. Le pides al bibliotecario un libro y él te da uno a la vez, sin que tengas que preocuparte por cómo están organizados los libros en la estantería. El bibliotecario conoce la estructura interna de la estantería y te da los libros uno por uno sin revelar esa estructura.
+
+La estantería es la colección de elementos.
+Los libros individuales son los elementos dentro de la colección.
+El bibliotecario es el Iterador, que te permite recorrer la colección sin exponer su estructura interna.
+
+
  
 
